@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    "aquamacs": "#{source_dir}"
